@@ -1,7 +1,7 @@
 Project Overview
 Objective: To analyze client data and sales performance across different states.
 
-Data Source: Client database with 17,000 entries.
+Data Source: Client database with 20k+ entries.
 
 Key Features
 Client Count by State: Visual representation of client distribution.
